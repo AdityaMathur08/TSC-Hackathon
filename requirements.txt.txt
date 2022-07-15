@@ -1,0 +1,8 @@
+pandas
+numpy
+termcolor
+sklearn
+catboost 	
+collections
+matplotlib
+seaborn
